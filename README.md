@@ -1,8 +1,4 @@
-# 🙋‍♂️ Miguel Menchu
-
-👋 Hi there! I'm Miguel — a **Christian developer** passionate about writing **clean**, **reliable**, and **maintainable code**. I believe in the power of **best practices**, **open source collaboration**, and using **technology to serve a greater purpose**.
-
----
+# 🙋‍♂️ Menchu
 
 ## ✝️ Faith Meets Tech
 
