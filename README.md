@@ -27,7 +27,7 @@ I'm especially interested in building and contributing to **solutions that empow
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn][(https://www.linkedin/twitter.com/yourhandleave one)](https://www.linkedin.com/in/miguel-mench%C3%BA-37870baa/)*
+- 💼 [LinkedIn][https://www.linkedin.com/in/miguel-mench%C3%BA-37870baa/]*
 
 ---
 
