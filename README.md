@@ -8,38 +8,6 @@ I'm especially interested in building and contributing to **solutions that empow
 
 ---
 
-## 🛠️ Tech Stack & Interests
-
-- ⚙️ **Languages**: JavaScript, PHP, Java
-- 🧱 **Frameworks**: React, Node.js, Laravel
-- 🗄️ **Databases**: PostgreSQL, MySQL
-- ☁️ **Cloud & DevOps**: Aws, Docker, Terraform
-- 📱 **Mobile**: React Native, Flutter *(learning)*
-- 🧪 **Testing**: Jest, Pest
-
----
-
-## 🌱 Currently Learning
-- 📚 IU/UX best practices 
-- 🧩 GitLab CI/CD
-- 🧠 AI tools for ministry and church engagement
----
-
-## 🤝 Let's Connect
-
-- 💼 [LinkedIn][https://www.linkedin.com/in/miguel-mench%C3%BA-37870baa/]*
-
----
-
-## 📢 Featured Projects
-
-Here are a few projects aligned with my mission:
-
-- ⛪ **ChurchCRM** – A platform to help churches manage members, events, and communication.
-- 🎙️ **ChurchCMS** – A tool for manage a website church
-
----
-
 ## 🙌 Let's Build Together
 
 If you're working on a project that helps churches or ministries thrive through tech, I'd love to hear about it and possibly collaborate!
