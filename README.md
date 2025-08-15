@@ -1,4 +1,4 @@
-# 🙋‍♂️ Menchu
+# 🙋‍♂️ Miguel
 
 ## ✝️ Faith Meets Tech
 
